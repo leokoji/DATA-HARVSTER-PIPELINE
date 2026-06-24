@@ -1,5 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
+import textwrap
 
 url = 'https://pt.wikihow.com/Se-Tornar-um-Programador'
 
@@ -14,39 +15,27 @@ print(f"Codigo de status: {resposta.status_code}")
 if resposta.status_code != 200:
     print("Trecho HTML recebido (erro): ")
     print(resposta.text[:500])
-
+    
 elif resposta.status_code == 200:
     sopa = BeautifulSoup(resposta.text, 'html.parser')
-
-    with open ("html_real.txt", "w", encoding="utf-8") as debug_file:
-        debug_file.write(resposta.text)
     
     elemento_titulo = sopa.find('h1', class_='title_md')
-    
-    if elemento_titulo:
-        titulo = elemento_titulo.text
-    else:
-        titulo = "Título não encontrado"
+    titulo = elemento_titulo.get_text() if elemento_titulo else ""
         
     print(f"Título extraído: {titulo}")
 
     corpo = sopa.find('div', {'class': 'mf-section-0'})
     texto_resumo = corpo.get_text(separator=' ', strip=True) if corpo else ""
 
-    container_passos = sopa.find('div', id='step-id-00')
+    container_passos = sopa.find_all('div', class_="step")
 
-    texto_passos = ''
+    texto_passos = ' '
+    for i in container_passos:
+        texto_parte = i.get_text(separator=' ') if container_passos else " "
+        texto_passos += texto_parte
 
-    if container_passos:
-        paragrafos = container_passos.find_all('p')
-
-        for p in paragrafos:
-            texto_passos += p.text.strip() + "\n"
     
-    else:
-        print("AVISO: Container de passos não encontrada.")
-    
-    texto_final = f"{titulo} \n\n{texto_resumo}\n\n{texto_passos}"
+    texto_final = f"{titulo} \n\n{textwrap.fill(texto_resumo, width=80)}\n\n{texto_passos}"
 
     with open('Texto_Extraido.txt', 'w', encoding='utf-8') as arquivo:
         arquivo.write(texto_final)
@@ -55,3 +44,4 @@ elif resposta.status_code == 200:
 
 else:
     print(f"Falha ao acessar. Codigo: {resposta.status_code}")
+
