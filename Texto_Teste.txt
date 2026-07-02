@@ -1,0 +1,114 @@
+1 - Faça um curso introdutório em, no mínimo, uma das seguintes disciplinas:
+2 - Aprenda conceitos de banco de dados, tais como tabelas, consultas e procedimentos.
+3 - Decida qual tipo de programador você quer ser.
+4 - Aprenda as tecnologias e linguagens de programação relacionadas ao campo de escolha.
+5 - Saiba o que a programação web implica.
+6 - Navegue pelos diversos sites para descobrir como eles geralmente funcionam.
+7 - Aprenda ao menos uma técnica ou método de brainstorming e um software que seja utilizado para implementá-lo. brainstorming
+8 - Familiarize-se com a estrutura dos sites.
+9 - Faça um curso intensivo de design gráfico.
+10 - Aprenda os conceitos básicos de infraestrutura da internet.
+11 - Aprenda as linguagens HTML e CSS.
+12 - Aprenda XML e as tecnologias a ele relacionadas, tais como XSL e XPath (opcional, mas recomendado).
+13 - Crie sites estáticos simples até que você esteja familiarizado e confortável com o HTML.
+14 - Aprenda uma linguagem de script para o lado do cliente.
+15 - Familiarize-se com a linguagem script para o lado do cliente que você aprendeu.
+16 - Aprenda pelo menos uma [[Aprender uma Linguagem de Programação|linguagem de programação para o lado do servidor.
+17 - Crie um projeto piloto para si mesmo após terminar de aprender a linguagem de programação para o lado do servidor.
+18 - Crie um website próprio e comece a fazer testes on-line em sua própria página.
+19 - Saiba onde você está se metendo com a programação de aplicações desktop.
+20 - Conheça as diferentes arquiteturas de hardware dos computadores.
+21 - Aprenda uma linguagem de programação para iniciantes (para crianças) .
+22 - Estude os conceitos básicos dos paradigmas de programação procedural, programação orientada a objetos e programação funcional.
+23 - Faça um curso introdutório em uma das linguagens de programação procedurais.
+24 - Aprenda pelo menos uma técnica de modelagem avançada, como UML ou ORM.
+25 - Comece a escrever pequenas aplicações para consoles ou algo do tipo.
+26 - Faça um curso mais avançado em sua linguagem de programação favorita.
+27 - Aplique as técnicas avançadas que você aprendeu.
+28 - Faça um curso introdutório em pelo menos mais uma linguagem de programação sob outro paradigma.
+29 - Tente comparar as duas linguagens de programação que você aprendeu até o momento.
+30 - Aprenda conceitos de programação visual usando uma das linguagens que você aprendeu.
+31 - Comece a aplicar o seu conhecimento nos pequenos projetos de software que você cria.
+32 - Crie um "projeto de graduação" virtual.
+33 - Amplie sua compreensão sobre framework, biblioteca e pacote visual fazendo cursos avançados, prestando atenção extra aos detalhes e aprendendo mais dicas e truques sobre seu framework através de fontes na internet.
+34 - Procure outros pacotes e bibliotecas de elementos visuais para suas linguagens de programação e aprenda-os.
+35 - Faça um curso de gráficos (que não seja design gráfico).
+36 - Torne-se um programador de jogos (opcional) .
+37 - Aprofunde-se na programação de aplicações distribuídas.
+38 - Faça uma rápida introdução aos sistemas de telefonia e respectivos hardwares.
+39 - Familiarize-se com as arquiteturas e dispositivos de rede, tais como hubs, switches e roteadores.
+40 - Faça um curso sobre protocolos de rede e os elementos essenciais.
+41 - Aprenda a linguagem XLM e familiarize-se com ela.
+42 - Comece aprendendo uma linguagem de script shell.
+43 - Aplique somente programação procedural usando a primeira linguagem de script escolhida por você.
+44 - Use a linguagem que você aprendeu para escrever scripts que realizam comunicação entre máquinas.
+45 - Mude para uma linguagem de programação de desktop.
+46 - Concentre-se mais nas características fundamentais da linguagem, especialmente no que diz respeito a suporte de rede.
+47 - Faça um curso sobre a concepção e a arquitetura de aplicações distribuídas.
+48 - Estude a construção de componentes e serviços utilizando a linguagem de programação que você escolheu.
+49 - Aprenda pelo menos uma das seguintes tecnologias.
+50 - Saiba o que é programação de core.
+51 - Aprenda uma linguagem de programação que suporte a construção de componentes e pacotes reutilizáveis, caso ainda não tenha aprendido.
+52 - Faça um curso avançado em UML e ORM.
+53 - Faça um curso de engenharia de software.
+54 - Aprenda, no mínimo, conceitos e técnicas de programação modular, baseada em componentes, orientada a objetos e a eventos.
+55 - Saiba mais sobre os diferentes sistemas operacionais e sobre os frameworks de programação suportados por eles.
+56 - Concentre seus esforços nos frameworks, linguagens de programação e tecnologias, independente da plataforma.
+57 - Caso as linguagens de programação que você aprendeu até o momento possuam versões padrão ANSI/ISO/IEEE/W3C, domine-as.
+58 - Tente imitar bibliotecas simples e já estabelecidas, especialmente as de código aberto. código aberto
+59 - Pesquise e experimente pacotes de código aberto em seu campo de programação.
+60 - Aprenda as diferentes abordagens utilizadas para distribuir e implementar componentes para programadores.
+61 - Entenda o que a programação de sistemas implica.
+62 - Siga as três primeiras etapas sugeridas para programadores de aplicações desktop.
+63 - Faça um curso introdutório em álgebra linear.
+64 - Faça um curso de cálculo .
+65 - Faça um curso de lógica ou matemática discreta.
+66 - Descubra por si mesmo diferentes sistemas operacionais.
+67 - Faça um curso (ou, alternativamente, leia livros) sobre a arquitetura de hardware dos computadores.
+68 - Compreenda as diferentes plataformas de hardware de um computador.
+69 - Compreenda basicamente a linguagem de integração da plataforma de hardware ou do sistema operacional de sua escolha. linguagem de integração
+70 - Aprenda as linguagens ANSI C e C++, junto com os conceitos de programação procedural.
+71 - Entenda e pratique as bibliotecas padrão C/C++ na plataforma escolhida.
+72 - Procure por sites, livros e cursos na internet para conhecer as peculiaridades da linguagem C para sua plataforma em específico.
+73 - Pratique a criação de código avançado com C e C++.
+74 - Aprenda mais sobre linguagens de integração avançadas.
+75 - Faça um curso em design de sistemas operacionais.
+76 - Encontre e leia documentos da plataforma escolhida.
+77 - Ponha em prática o conhecimento que você adquiriu.
+78 - Aprenda as linguagens na ordem mais útil.
+79 - Saiba o que um cientista da programação faz.
+80 - Acumule o conhecimento científico equivalente a um curso de quatro anos em ciência da computação.
+81 - Decida qual será sua área de especialidade.
+82 - Considere obter uma pós-graduação.
+83 - Conheça as tecnologias e linguagens de programação relacionadas à sua área de escolha.
+
+
+Passos
+
+passo: 1
+Faça  -um  -curso  -introdutório  -em,  -no  -mínimo,  -uma  -das  -seguintes  -disciplinas:  Lógica
+Matemática  -discreta Linguagem  -de  -programação  -(de  -preferência  -C++,  -Java  -ou  -Python
+-para  -iniciantes)
+=======================================================
+passo: 2
+Aprenda  -conceitos  -de  -banco  -de  -dados,  -tais  -como  -tabelas,  -consultas  -e
+-procedimentos.  -Você  -poderá  -usar  -qualquer  -pacote  -simples  -de  -banco  -de  -dados
+-para  -fazer  -isso,  -tais  -como:  -  MS  -Access DB  -V Fox  -Pro Paradox O  -MySQL  -é  -um
+-bom  -serviço  -de  -banco  -de  -dados  -para  -se  -aprender,  -uma  -vez  -que,  -além  -de
+-ser  -gratuito  -e  -comumente  -utilizado,  -os  -bancos  -de  -dados  -são  -normalmente
+-acessados  -com  -consultas  -SQL.
+=======================================================
+passo: 3
+Decida  -qual  -tipo  -de  -programador  -você  -quer  -ser.  -Programadores  -geralmente
+-pertencem  -a  -uma  -das  -seguintes  -categorias:  Programador  -web Programador  -de
+-aplicações  -desktop   Programador  -orientado  -a  -um  -sistema  -operacional  -(preso  -a  -um
+-único  -sistema  -operacional  -ou  -conjunto  -de  -sistemas  -operacionais) Programador  -de
+-plataforma  -independente   Programador  -de  -aplicações  -distribuídas Programador  -de
+-bibliotecas,  -plataformas,  -framework  -e  -core Programador  -de  -sistemas  Programador  -de
+-Kernel Programador  -de  -drivers Programador  -compilador   Cientista  -da  -programação
+=======================================================
+passo: 4
+Aprenda  -as  -tecnologias  -e  -linguagens  -de  -programação  -relacionadas  -ao  -campo  -de
+-escolha.  -As  -próximas  -seções  -detalharão  -as  -etapas  -necessárias  -para  -se  -tornar
+-cada  -um  -dos  -diferentes  -tipos  -de  -programador.
+=======================================================
