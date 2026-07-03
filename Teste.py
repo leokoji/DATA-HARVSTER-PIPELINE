@@ -47,10 +47,16 @@ elif resposta.status_code == 200:
 
 
 
-    #EXTRATOR DE CONTAINER
+    #EXTRATOR DE CONTAINER_PASSO
     container_passo = sopa.find('div', class_= "section steps steps_first sticky")
     categoria_passo = container_passo.find('span', class_="mw-headline").get_text()
     conteudo_passo = container_passo.find_all('div', class_="step")
+
+    #EXTRATOR DE CONTAINER_CATEGORIA
+    container_metodo = sopa.find("div", class_="mf-section-1 collapsible-block")
+    categoria_metodo = container_metodo.find_all("div", class_="altblock")
+    tituloPasso_metodo = container_metodo.find_all("b", class_="whb")
+    conteudo_metodo = container_metodo.find_all("div", class_="section_text")
 
     #gerador de documento
     c = int(1)
@@ -61,19 +67,22 @@ elif resposta.status_code == 200:
             arquivo.write(f"{c} - {titulo}\n")
             c+=1
 
-        #CATEGORIAS
 
-        #CONTAINER
+        #CONTAINER_PASSOS
+        i = 0
         c = 1
         arquivo.write(f"\n\n{categoria_passo}\n")
         for conteudo in conteudo_passo:
             passos = conteudo.get_text().strip()
-            passos = passos.replace(' ', '\n -')
             arquivo.write(f"\npasso: {c}")
-            arquivo.write(f"\n{textwrap.fill(passos,width=100)}")
-            #arquivo.write(f"\n{passos}")
+            arquivo.write(f"\n{passos}")
             c+=1
             arquivo.write("\n=======================================================")
+
+        for metodo in categoria_metodo:
+            arquivo.write(f"\n\n{metodo.get_text().strip()}\n")
+            arquivo.write(f"\n{conteudo_metodo[i].get_text().strip()}")
+            i += 1
 
 
 
