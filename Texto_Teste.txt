@@ -1,136 +1,34 @@
-1 - Faça um curso introdutório em, no mínimo, uma das seguintes disciplinas:
-2 - Aprenda conceitos de banco de dados, tais como tabelas, consultas e procedimentos.
-3 - Decida qual tipo de programador você quer ser.
-4 - Aprenda as tecnologias e linguagens de programação relacionadas ao campo de escolha.
-5 - Saiba o que a programação web implica.
-6 - Navegue pelos diversos sites para descobrir como eles geralmente funcionam.
-7 - Aprenda ao menos uma técnica ou método de brainstorming e um software que seja utilizado para implementá-lo. brainstorming
-8 - Familiarize-se com a estrutura dos sites.
-9 - Faça um curso intensivo de design gráfico.
-10 - Aprenda os conceitos básicos de infraestrutura da internet.
-11 - Aprenda as linguagens HTML e CSS.
-12 - Aprenda XML e as tecnologias a ele relacionadas, tais como XSL e XPath (opcional, mas recomendado).
-13 - Crie sites estáticos simples até que você esteja familiarizado e confortável com o HTML.
-14 - Aprenda uma linguagem de script para o lado do cliente.
-15 - Familiarize-se com a linguagem script para o lado do cliente que você aprendeu.
-16 - Aprenda pelo menos uma [[Aprender uma Linguagem de Programação|linguagem de programação para o lado do servidor.
-17 - Crie um projeto piloto para si mesmo após terminar de aprender a linguagem de programação para o lado do servidor.
-18 - Crie um website próprio e comece a fazer testes on-line em sua própria página.
-19 - Saiba onde você está se metendo com a programação de aplicações desktop.
-20 - Conheça as diferentes arquiteturas de hardware dos computadores.
-21 - Aprenda uma linguagem de programação para iniciantes (para crianças) .
-22 - Estude os conceitos básicos dos paradigmas de programação procedural, programação orientada a objetos e programação funcional.
-23 - Faça um curso introdutório em uma das linguagens de programação procedurais.
-24 - Aprenda pelo menos uma técnica de modelagem avançada, como UML ou ORM.
-25 - Comece a escrever pequenas aplicações para consoles ou algo do tipo.
-26 - Faça um curso mais avançado em sua linguagem de programação favorita.
-27 - Aplique as técnicas avançadas que você aprendeu.
-28 - Faça um curso introdutório em pelo menos mais uma linguagem de programação sob outro paradigma.
-29 - Tente comparar as duas linguagens de programação que você aprendeu até o momento.
-30 - Aprenda conceitos de programação visual usando uma das linguagens que você aprendeu.
-31 - Comece a aplicar o seu conhecimento nos pequenos projetos de software que você cria.
-32 - Crie um "projeto de graduação" virtual.
-33 - Amplie sua compreensão sobre framework, biblioteca e pacote visual fazendo cursos avançados, prestando atenção extra aos detalhes e aprendendo mais dicas e truques sobre seu framework através de fontes na internet.
-34 - Procure outros pacotes e bibliotecas de elementos visuais para suas linguagens de programação e aprenda-os.
-35 - Faça um curso de gráficos (que não seja design gráfico).
-36 - Torne-se um programador de jogos (opcional) .
-37 - Aprofunde-se na programação de aplicações distribuídas.
-38 - Faça uma rápida introdução aos sistemas de telefonia e respectivos hardwares.
-39 - Familiarize-se com as arquiteturas e dispositivos de rede, tais como hubs, switches e roteadores.
-40 - Faça um curso sobre protocolos de rede e os elementos essenciais.
-41 - Aprenda a linguagem XLM e familiarize-se com ela.
-42 - Comece aprendendo uma linguagem de script shell.
-43 - Aplique somente programação procedural usando a primeira linguagem de script escolhida por você.
-44 - Use a linguagem que você aprendeu para escrever scripts que realizam comunicação entre máquinas.
-45 - Mude para uma linguagem de programação de desktop.
-46 - Concentre-se mais nas características fundamentais da linguagem, especialmente no que diz respeito a suporte de rede.
-47 - Faça um curso sobre a concepção e a arquitetura de aplicações distribuídas.
-48 - Estude a construção de componentes e serviços utilizando a linguagem de programação que você escolheu.
-49 - Aprenda pelo menos uma das seguintes tecnologias.
-50 - Saiba o que é programação de core.
-51 - Aprenda uma linguagem de programação que suporte a construção de componentes e pacotes reutilizáveis, caso ainda não tenha aprendido.
-52 - Faça um curso avançado em UML e ORM.
-53 - Faça um curso de engenharia de software.
-54 - Aprenda, no mínimo, conceitos e técnicas de programação modular, baseada em componentes, orientada a objetos e a eventos.
-55 - Saiba mais sobre os diferentes sistemas operacionais e sobre os frameworks de programação suportados por eles.
-56 - Concentre seus esforços nos frameworks, linguagens de programação e tecnologias, independente da plataforma.
-57 - Caso as linguagens de programação que você aprendeu até o momento possuam versões padrão ANSI/ISO/IEEE/W3C, domine-as.
-58 - Tente imitar bibliotecas simples e já estabelecidas, especialmente as de código aberto. código aberto
-59 - Pesquise e experimente pacotes de código aberto em seu campo de programação.
-60 - Aprenda as diferentes abordagens utilizadas para distribuir e implementar componentes para programadores.
-61 - Entenda o que a programação de sistemas implica.
-62 - Siga as três primeiras etapas sugeridas para programadores de aplicações desktop.
-63 - Faça um curso introdutório em álgebra linear.
-64 - Faça um curso de cálculo .
-65 - Faça um curso de lógica ou matemática discreta.
-66 - Descubra por si mesmo diferentes sistemas operacionais.
-67 - Faça um curso (ou, alternativamente, leia livros) sobre a arquitetura de hardware dos computadores.
-68 - Compreenda as diferentes plataformas de hardware de um computador.
-69 - Compreenda basicamente a linguagem de integração da plataforma de hardware ou do sistema operacional de sua escolha. linguagem de integração
-70 - Aprenda as linguagens ANSI C e C++, junto com os conceitos de programação procedural.
-71 - Entenda e pratique as bibliotecas padrão C/C++ na plataforma escolhida.
-72 - Procure por sites, livros e cursos na internet para conhecer as peculiaridades da linguagem C para sua plataforma em específico.
-73 - Pratique a criação de código avançado com C e C++.
-74 - Aprenda mais sobre linguagens de integração avançadas.
-75 - Faça um curso em design de sistemas operacionais.
-76 - Encontre e leia documentos da plataforma escolhida.
-77 - Ponha em prática o conhecimento que você adquiriu.
-78 - Aprenda as linguagens na ordem mais útil.
-79 - Saiba o que um cientista da programação faz.
-80 - Acumule o conhecimento científico equivalente a um curso de quatro anos em ciência da computação.
-81 - Decida qual será sua área de especialidade.
-82 - Considere obter uma pós-graduação.
-83 - Conheça as tecnologias e linguagens de programação relacionadas à sua área de escolha.
 
 
-Passos
+passos
 
-passo: 1
-Faça um curso introdutório em, no mínimo, uma das seguintes disciplinas:
-
-Lógica
-Matemática discreta
-Linguagem de programação (de preferência C++, Java ou Python para iniciantes)
+passo: 1 - Faça um curso introdutório em, no mínimo, uma das seguintes disciplinas:
+Lógica Matemática discreta Linguagem de programação (de preferência C++, Java ou Python para
+iniciantes)
 =======================================================
-passo: 2
-Aprenda conceitos de banco de dados, tais como tabelas, consultas e procedimentos. Você poderá usar qualquer pacote simples de banco de dados para fazer isso, tais como: 
-
-MS Access
-DB V
-Fox Pro
-Paradox
-O MySQL é um bom serviço de banco de dados para se aprender, uma vez que, além de ser gratuito e comumente utilizado, os bancos de dados são normalmente acessados com consultas SQL.
+passo: 2 - Aprenda conceitos de banco de dados, tais como tabelas, consultas e procedimentos.
+Você poderá usar qualquer pacote simples de banco de dados para fazer isso, tais como:   MS Access
+DB V Fox Pro Paradox O MySQL é um bom serviço de banco de dados para se aprender, uma vez que, além
+de ser gratuito e comumente utilizado, os bancos de dados são normalmente acessados com consultas
+SQL.
 =======================================================
-passo: 3
-Decida qual tipo de programador você quer ser. Programadores geralmente pertencem a uma das seguintes categorias:
-
-Programador web
-Programador de aplicações desktop
-
-
-Programador orientado a um sistema operacional (preso a um único sistema operacional ou conjunto de sistemas operacionais)
-Programador de plataforma independente
-
-
-Programador de aplicações distribuídas
-Programador de bibliotecas, plataformas, framework e core
-Programador de sistemas
-
-Programador de Kernel
-Programador de drivers
-Programador compilador
-
-
+passo: 3 - Decida qual tipo de programador você quer ser.
+Programadores geralmente pertencem a uma das seguintes categorias:  Programador web Programador de
+aplicações desktop   Programador orientado a um sistema operacional (preso a um único sistema
+operacional ou conjunto de sistemas operacionais) Programador de plataforma independente
+Programador de aplicações distribuídas Programador de bibliotecas, plataformas, framework e core
+Programador de sistemas  Programador de Kernel Programador de drivers Programador compilador
 Cientista da programação
 =======================================================
-passo: 4
-Aprenda as tecnologias e linguagens de programação relacionadas ao campo de escolha. As próximas seções detalharão as etapas necessárias para se tornar cada um dos diferentes tipos de programador.
+passo: 4 - Aprenda as tecnologias e linguagens de programação relacionadas ao campo de escolha.
+As próximas seções detalharão as etapas necessárias para se tornar cada um dos diferentes tipos de
+programador.
 =======================================================
 
 Método 1
 
-1
-Saiba o que a programação web implica.  Aplicações web são componentes de software projetados para trabalhar em cima da arquitetura da internet. Isso significa que as aplicações são acessadas através de um navegador web, como Firefox ou Internet Explorer. Isso não quer dizer que é necessária uma conexão ativa com a rede e sim que as aplicações estão construídas em cima de tecnologias padrão de web, tais como:
+passo 1 - Saiba o que a programação web implica.
+Aplicações web são componentes de software projetados para trabalhar em cima da arquitetura da internet. Isso significa que as aplicações são acessadas através de um navegador web, como Firefox ou Internet Explorer. Isso não quer dizer que é necessária uma conexão ativa com a rede e sim que as aplicações estão construídas em cima de tecnologias padrão de web, tais como:
 
 HTTP
 FTP
@@ -146,15 +44,11 @@ JSP
 PHP
 ASP.NET
 
+======================================================
 
 
-
-
-
-
-
-2
-Navegue pelos diversos sites para descobrir como eles geralmente funcionam. Clique com o botão direito na página e, em seguida, vá em "exibir código fonte" ou pressione a tecla F12. Concentre-se mais na diversidade de tipo e conteúdo do que na quantidade de sites visitados. Você deverá visitar pelo menos um dos seguintes tipos de sites:
+passo 2 - Navegue pelos diversos sites para descobrir como eles geralmente funcionam.
+Clique com o botão direito na página e, em seguida, vá em "exibir código fonte" ou pressione a tecla F12. Concentre-se mais na diversidade de tipo e conteúdo do que na quantidade de sites visitados. Você deverá visitar pelo menos um dos seguintes tipos de sites:
 
 Sites de presença corporativa (empresas comerciais, empresas e organizações sem fins lucrativos, organizações governamentais)
 Mecanismos de indexação de web (motores de busca, sites de meta busca, motores de busca especializados, diretórios)
@@ -164,38 +58,29 @@ Páginas informativas ou enciclopédicas (wikis, planilhas de dados, especifica�
 Sites sociais (portais sociais, sites de favoritos, sites de anotações)
 Sites colaborativos (inclui outras categorias mencionadas acima, como wikis e blogs)
 
+======================================================
 
 
+passo 3 - Aprenda ao menos uma técnica ou método de brainstorming e um software que seja utilizado para implementá-lo. brainstorming
+Por exemplo: diagramas de brainstorming e MS Visio.
+
+======================================================
 
 
+passo 4 - Familiarize-se com a estrutura dos sites.
+Isso significa criar diagramas web conceituais, mapas de site e estruturas de navegação.
+
+======================================================
 
 
-3
-Aprenda ao menos uma técnica ou método de brainstorming e um software que seja utilizado para implementá-lo. Por exemplo: diagramas de brainstorming e MS Visio. 
+passo 5 - Faça um curso intensivo de design gráfico.
+Tente aprender pelo menos um software de edição e manipulação de imagens (opcional, mas fortemente recomendado).
+
+======================================================
 
 
-
-
-
-
-4
-Familiarize-se com a estrutura dos sites. Isso significa criar diagramas web conceituais, mapas de site e estruturas de navegação.
-
-
-
-
-
-
-5
-Faça um curso intensivo de design gráfico. Tente aprender pelo menos um software de edição e manipulação de imagens (opcional, mas fortemente recomendado).
-
-
-
-
-
-
-6
-Aprenda os conceitos básicos de infraestrutura da internet. Você deverá ter uma noção básica sobre: 
+passo 6 - Aprenda os conceitos básicos de infraestrutura da internet.
+Você deverá ter uma noção básica sobre: 
 
 Protocolos de serviços base da web (HTTP, FTP, SMTP e POP3 ou IMAP4)
 
@@ -203,135 +88,110 @@ Software de servidor web (preferencialmente um que seja da plataforma na qual vo
 Software de navegação web.
 Software de cliente e servidor de e-mail.
 
+======================================================
 
 
+passo 7 - Aprenda as linguagens HTML e CSS.
+Considere obter o software para edição de HTML chamado "What You See Is What You Get (WYSIWYG)".
+
+======================================================
 
 
+passo 8 - Aprenda XML e as tecnologias a ele relacionadas, tais como XSL e XPath (opcional, mas recomendado).
 
 
-7
-Aprenda as linguagens HTML e CSS. Considere obter o software para edição de HTML chamado "What You See Is What You Get (WYSIWYG)". 
+======================================================
 
 
+passo 9 - Crie sites estáticos simples até que você esteja familiarizado e confortável com o HTML.
 
 
+======================================================
 
 
-8
-Aprenda XML e as tecnologias a ele relacionadas, tais como XSL e XPath (opcional, mas recomendado).
+passo 10 - Aprenda uma linguagem de script para o lado do cliente.
+A maioria dos usuários aprende JavaScript. Alguns aprendem VBScript, o qual, entretanto, não é compatível com grande parte dos navegadores.
+
+======================================================
 
 
+passo 11 - Familiarize-se com a linguagem script para o lado do cliente que você aprendeu.
+Tente alcançar todo seu potencial usando apenas essa linguagem. Avance para o próximo passo somente depois de ter se familiarizado com a linguagem script para o lado do cliente.
+
+======================================================
 
 
+passo 12 - Aprenda pelo menos uma [[Aprender uma Linguagem de Programação|linguagem de programação para o lado do servidor.
+Se você optar por limitar-se a um software de servidor, aprenda uma das linguagens de programação suportadas por ele. Caso contrário, aprenda pelo menos uma linguagem de programação para cada software de servidor.
+
+======================================================
 
 
-9
-Crie sites estáticos simples até que você esteja familiarizado e confortável com o HTML.
+passo 13 - Crie um projeto piloto para si mesmo após terminar de aprender a linguagem de programação para o lado do servidor.
 
 
+======================================================
 
 
+passo 14 - Crie um website próprio e comece a fazer testes on-line em sua própria página.
 
 
-10
-Aprenda uma linguagem de script para o lado do cliente. A maioria dos usuários aprende JavaScript. Alguns aprendem VBScript, o qual, entretanto, não é compatível com grande parte dos navegadores. 
+======================================================
 
 
-
-
-
-
-11
-Familiarize-se com a linguagem script para o lado do cliente que você aprendeu. Tente alcançar todo seu potencial usando apenas essa linguagem. Avance para o próximo passo somente depois de ter se familiarizado com a linguagem script para o lado do cliente. 
-
-
-
-
-
-
-12
-Aprenda pelo menos uma [[Aprender uma Linguagem de Programação|linguagem de programação para o lado do servidor. Se você optar por limitar-se a um software de servidor, aprenda uma das linguagens de programação suportadas por ele. Caso contrário, aprenda pelo menos uma linguagem de programação para cada software de servidor. 
-
-
-
-
-
-
-13
-Crie um projeto piloto para si mesmo após terminar de aprender a linguagem de programação para o lado do servidor.
-
-
-
-
-
-
-14
-Crie um website próprio e comece a fazer testes on-line em sua própria página.
-
-
-
-Publicidade
 
 Método 2
 
-1
-Saiba onde você está se metendo com a programação de aplicações desktop. A maioria dos programadores de desktop escreve códigos para soluções comerciais, por isso, ter uma ideia sobre como funcionam as empresas, as estruturas organizacionais e financeiras será um grande economizador de tempo.
+passo 1 - Saiba onde você está se metendo com a programação de aplicações desktop.
+A maioria dos programadores de desktop escreve códigos para soluções comerciais, por isso, ter uma ideia sobre como funcionam as empresas, as estruturas organizacionais e financeiras será um grande economizador de tempo.
+
+======================================================
+
+
+passo 2 - Conheça as diferentes arquiteturas de hardware dos computadores.
+Um curso de nível introdutório em projeto de circuitos digitais e outro em arquitetura de computadores serão úteis – entretanto, como alguns veem isso como sendo avançado demais para um ponto de partida, ler dois ou três artigos tutoriais em sites especializados pode ser suficiente. Dessa forma, você pode voltar nesse passo posteriormente, após aprender a sua primeira linguagem de programação.
+
+======================================================
+
+
+passo 3 - Aprenda uma linguagem de programação para iniciantes (para crianças) [1]
+X
+Fonte de pesquisa
 
 
 
+. [1]
+Não tenha vergonha de aprendê-la apenas porque você é velho demais para ser chamado de criança. Um exemplo de linguagem de programação para iniciantes é a chamada Scratch. Linguagens de programação desse tipo podem aliviar tremendamente as dificuldades de se aprender sua primeira linguagem de programação. Entretanto, esse passo é opcional. Ele também pode ser feito antes do passo anterior.
+
+======================================================
 
 
-
-2
-Conheça as diferentes arquiteturas de hardware dos computadores. Um curso de nível introdutório em projeto de circuitos digitais e outro em arquitetura de computadores serão úteis – entretanto, como alguns veem isso como sendo avançado demais para um ponto de partida, ler dois ou três artigos tutoriais em sites especializados pode ser suficiente. Dessa forma, você pode voltar nesse passo posteriormente, após aprender a sua primeira linguagem de programação.
+passo 4 - Estude os conceitos básicos dos paradigmas de programação procedural, programação orientada a objetos e programação funcional.
 
 
+======================================================
 
 
+passo 5 - Faça um curso introdutório em uma das linguagens de programação procedurais.
+Seja qual for a linguagem de sua escolha, ela certamente exigirá programação procedural em algum ponto. Além disso, a maioria dos programadores afirma que a programação procedural é a maneira mais fácil de entrar no mundo da programação
+
+======================================================
 
 
-3
-Aprenda uma linguagem de programação para iniciantes (para crianças) .  Não tenha vergonha de aprendê-la apenas porque você é velho demais para ser chamado de criança. Um exemplo de linguagem de programação para iniciantes é a chamada Scratch. Linguagens de programação desse tipo podem aliviar tremendamente as dificuldades de se aprender sua primeira linguagem de programação. Entretanto, esse passo é opcional. Ele também pode ser feito antes do passo anterior. 
+passo 6 - Aprenda pelo menos uma técnica de modelagem avançada, como UML ou ORM.
 
 
+======================================================
 
 
+passo 7 - Comece a escrever pequenas aplicações para consoles ou algo do tipo.
+Você pode usar pequenos exercícios comuns em livros de linguagens de programação. Para isso, escolha uma ferramenta para escrever programas com a linguagem de programação que você usa.
+
+======================================================
 
 
-4
-Estude os conceitos básicos dos paradigmas de programação procedural, programação orientada a objetos e programação funcional.
-
-
-
-
-
-
-5
-Faça um curso introdutório em uma das linguagens de programação procedurais. Seja qual for a linguagem de sua escolha, ela certamente exigirá programação procedural em algum ponto. Além disso, a maioria dos programadores afirma que a programação procedural é a maneira mais fácil de entrar no mundo da programação 
-
-
-
-
-
-
-6
-Aprenda pelo menos uma técnica de modelagem avançada, como UML ou ORM.
-
-
-
-
-
-
-7
-Comece a escrever pequenas aplicações para consoles ou algo do tipo. Você pode usar pequenos exercícios comuns em livros de linguagens de programação. Para isso, escolha uma ferramenta para escrever programas com a linguagem de programação que você usa.
-
-
-
-
-
-
-8
-Faça um curso mais avançado em sua linguagem de programação favorita. Tome o cuidado de entender bem os seguintes conceitos e de poder aplicá-los com facilidade antes de continuar:
+passo 8 - Faça um curso mais avançado em sua linguagem de programação favorita.
+Tome o cuidado de entender bem os seguintes conceitos e de poder aplicá-los com facilidade antes de continuar:
 
 Entrada e saída de informações para os usuários de um programa.
 O fluxo lógico e o fluxo de execução de programas em linguagens procedurais.
@@ -346,219 +206,168 @@ Os métodos de acesso à memória da linguagem que você escolheu (ponteiros, fi
 Caso a linguagem suporte sobrecarga de operadores, entenda esse conceito.
 Caso a linguagem suporte ponteiros de delegação e função, entenda esse conceito.
 
+======================================================
 
 
-
-
-
-
-9
-Aplique as técnicas avançadas que você aprendeu.
+passo 9 - Aplique as técnicas avançadas que você aprendeu.
 Paradigma orientado a objetos.
 
+======================================================
 
 
-
-
-
-10
-Faça um curso introdutório em pelo menos mais uma linguagem de programação sob outro paradigma. É recomendado aprender uma linguagem de programação para cada paradigma, assim como fazem a maioria dos programadores avançados. Entretanto, você geralmente começa com uma, trabalha com ela por um tempo aplicando seu conhecimento e praticando, para só depois, quando já tiver uma sólida experiência profissional, aprender outra.  Experimente uma das seguintes áreas:
+passo 10 - Faça um curso introdutório em pelo menos mais uma linguagem de programação sob outro paradigma.
+É recomendado aprender uma linguagem de programação para cada paradigma, assim como fazem a maioria dos programadores avançados. Entretanto, você geralmente começa com uma, trabalha com ela por um tempo aplicando seu conhecimento e praticando, para só depois, quando já tiver uma sólida experiência profissional, aprender outra.  Experimente uma das seguintes áreas:
 
 Paradigma de programação lógica.
 Paradigma de programação funcional.
 
+======================================================
 
 
-
-
-
-
-11
-Tente comparar as duas linguagens de programação que você aprendeu até o momento. Avalie os pontos fortes e fracos de cada uma delas. Isso geralmente é feito da seguinte forma:
+passo 11 - Tente comparar as duas linguagens de programação que você aprendeu até o momento.
+Avalie os pontos fortes e fracos de cada uma delas. Isso geralmente é feito da seguinte forma:
 
 Pegando amostras simples de seus primeiros trabalhos na primeira linguagem de programação e reescrevendo-os usando a segunda linguagem de programação.
 Criando um novo projeto e tentando implementá-lo usando ambas as linguagens. Às vezes, dependendo do projeto e linguagens escolhidos, você poderá não ser capaz de programar o projeto em uma das linguagens!
 Escrevendo uma cola ou um quadro resumo de comparações entre as estruturas semelhantes nas duas linguagens e as características únicas de cada uma delas.
 Tente encontrar maneiras de imitar características únicas de uma das linguagens utilizando a outra.
 
+======================================================
 
 
-
-
-
-
-12
-Aprenda conceitos de programação visual usando uma das linguagens que você aprendeu. Quase todas as linguagens de programação possuem versões ou bibliotecas que suportam programação visual e outros tipos de programação em console. Faça o seguinte:
+passo 12 - Aprenda conceitos de programação visual usando uma das linguagens que você aprendeu.
+Quase todas as linguagens de programação possuem versões ou bibliotecas que suportam programação visual e outros tipos de programação em console. Faça o seguinte:
 
 Aprenda o básico da programação orientada a eventos. A maioria das linguagens de programação visual se baseia em eventos e tratamento eventos (usando a linguagem de programação de sua escolha).
 Experimente o máximo de softwares de desktop que puder e entenda o que cada um deles fazem. A maioria das empresas de desenvolvimento de software oferecem versões de teste dos produtos, as quais você pode usar para testar o software. Mantenha-se atualizado em relação aos avanços nas interfaces de usuário.
 Leia alguns artigos ou tutoriais sobre interfaces gráficas de usuário.
 
+======================================================
 
 
+passo 13 - Comece a aplicar o seu conhecimento nos pequenos projetos de software que você cria.
+Tente aplicar seus conhecimentos de programação nos problemas que você enfrenta no dia-a-dia. Por exemplo, escreva programas que renomeiam arquivos em massa, comparam arquivos de texto visualmente, copiam os nomes de arquivos de um diretório para um arquivo de texto, etc. Comece fazendo coisas simples.
+
+======================================================
 
 
+passo 14 - Crie um "projeto de graduação" virtual.
+Faça-o por inteiro, aplicando as técnicas de programação visual que você aprendeu até agora.
+
+======================================================
 
 
-13
-Comece a aplicar o seu conhecimento nos pequenos projetos de software que você cria. Tente aplicar seus conhecimentos de programação nos problemas que você enfrenta no dia-a-dia. Por exemplo, escreva programas que renomeiam arquivos em massa, comparam arquivos de texto visualmente, copiam os nomes de arquivos de um diretório para um arquivo de texto, etc. Comece fazendo coisas simples.
+passo 15 - Amplie sua compreensão sobre framework, biblioteca e pacote visual fazendo cursos avançados, prestando atenção extra aos detalhes e aprendendo mais dicas e truques sobre seu framework através de fontes na internet.
 
 
+======================================================
 
 
+passo 16 - Procure outros pacotes e bibliotecas de elementos visuais para suas linguagens de programação e aprenda-os.
 
 
-14
-Crie um "projeto de graduação" virtual. Faça-o por inteiro, aplicando as técnicas de programação visual que você aprendeu até agora.
+======================================================
 
 
+passo 17 - Faça um curso de gráficos (que não seja design gráfico).
+Isso será muito útil para programadores que desejam criar elementos de interface atrativos para os usuários.
+
+======================================================
 
 
+passo 18 - Torne-se um programador de jogos (opcional) .
+A programação de jogos é considerada, na maioria de suas partes, programação desktop. Caso pretenda tornar-se um programador de jogos, você precisará aprender mais sobre esse tipo de programação após concluir as etapas anteriores. Um curso de gráficos é um requisito obrigatório para programadores de jogos e sua segunda linguagem deverá ser uma de programação lógica ou funcional (de preferência Prolog ou Lisp).
+
+======================================================
 
 
-15
-Amplie sua compreensão sobre framework, biblioteca e pacote visual fazendo cursos avançados, prestando atenção extra aos detalhes e aprendendo mais dicas e truques sobre seu framework através de fontes na internet.
-
-
-
-
-
-
-16
-Procure outros pacotes e bibliotecas de elementos visuais para suas linguagens de programação e aprenda-os.
-
-
-
-
-
-
-17
-Faça um curso de gráficos (que não seja design gráfico). Isso será muito útil para programadores que desejam criar elementos de interface atrativos para os usuários. 
-
-
-
-
-
-
-18
-Torne-se um programador de jogos (opcional).  A programação de jogos é considerada, na maioria de suas partes, programação desktop. Caso pretenda tornar-se um programador de jogos, você precisará aprender mais sobre esse tipo de programação após concluir as etapas anteriores. Um curso de gráficos é um requisito obrigatório para programadores de jogos e sua segunda linguagem deverá ser uma de programação lógica ou funcional (de preferência Prolog ou Lisp).  
-
-
-
-Publicidade
 
 Método 3
 
-1
-Aprofunde-se na programação de aplicações distribuídas. Além de ser considerada por muitas pessoas do meio como uma das mais difíceis de aprender, a programação de aplicações distribuídas requer conhecimentos diversos em informática e tecnologias de comunicação.
+passo 1 - Aprofunde-se na programação de aplicações distribuídas.
+Além de ser considerada por muitas pessoas do meio como uma das mais difíceis de aprender, a programação de aplicações distribuídas requer conhecimentos diversos em informática e tecnologias de comunicação.
+
+======================================================
 
 
+passo 2 - Faça uma rápida introdução aos sistemas de telefonia e respectivos hardwares.
+Apesar de opcional, esse passo é bastante útil na compreensão das topologias de rede.
+
+======================================================
 
 
+passo 3 - Familiarize-se com as arquiteturas e dispositivos de rede, tais como hubs, switches e roteadores.
 
 
-2
-Faça uma rápida introdução aos sistemas de telefonia e respectivos hardwares. Apesar de opcional, esse passo é bastante útil na compreensão das topologias de rede. 
+======================================================
 
 
+passo 4 - Faça um curso sobre protocolos de rede e os elementos essenciais.
+Será necessária uma boa compreensão do modelo de Interconexão de Sistemas Abertos (OSI), Ethernet, IP, TCP, UDP e HTTP antes de começar a programação de aplicações distribuídas.
+
+======================================================
 
 
+passo 5 - Aprenda a linguagem XLM e familiarize-se com ela.
 
 
-3
-Familiarize-se com as arquiteturas e dispositivos de rede, tais como hubs, switches e roteadores.
+======================================================
 
 
-
-
-
-
-4
-Faça um curso sobre protocolos de rede e os elementos essenciais. Será necessária uma boa compreensão do modelo de Interconexão de Sistemas Abertos (OSI), Ethernet, IP, TCP, UDP e HTTP antes de começar a programação de aplicações distribuídas. 
-
-
-
-
-
-
-5
-Aprenda a linguagem XLM e familiarize-se com ela.
-
-
-
-
-
-
-6
-Comece aprendendo uma linguagem de script shell. Para programação no Windows, essa seria qualquer script que funcione com o Windows Scripting Host. Para programação no Linux, os scripts Bash e Perl serão suficientes. Javascript é fortemente recomendado em ambas as plataformas pelas seguintes razões: 
+passo 6 - Comece aprendendo uma linguagem de script shell.
+Para programação no Windows, essa seria qualquer script que funcione com o Windows Scripting Host. Para programação no Linux, os scripts Bash e Perl serão suficientes. Javascript é fortemente recomendado em ambas as plataformas pelas seguintes razões: 
 
 Ele é suportado por quase todos os hosts de script em qualquer sistema operacional (o Windows Scripting Host suporta javascript por padrão, a maioria das distribuições Linux possui um pacote para suporte de script em javascript por console).
 Ele é considerado mais fácil de aprender por vários desenvolvedores.
 Ele possui uma sintaxe derivada ALGOL que vai familiarizá-lo com muitas outras linguagens de programação quando você precisar escolher uma segunda linguagem (C, C++, C#, Java e J# possuem sintaxe derivada ALGOL).
 Ao aprender javascript, você se familiarizará com o script do lado do cliente de páginas web, o qual é um efeito colateral útil!
 
+======================================================
 
 
+passo 7 - Aplique somente programação procedural usando a primeira linguagem de script escolhida por você.
+Posteriormente, você poderá utilizar técnicas de programação e paradigmas mais avançados de acordo com a linguagem de script e o que ela pode suportar. Todas as linguagens de script apresentam aspectos de programação procedural em algum ponto.
+
+======================================================
 
 
+passo 8 - Use a linguagem que você aprendeu para escrever scripts que realizam comunicação entre máquinas.
+Saiba o que é necessário para fazer isso. Uma comunicação simples será suficiente.
+
+======================================================
 
 
-7
-Aplique somente programação procedural usando a primeira linguagem de script escolhida por você. Posteriormente, você poderá utilizar técnicas de programação e paradigmas mais avançados de acordo com a linguagem de script e o que ela pode suportar. Todas as linguagens de script apresentam aspectos de programação procedural em algum ponto.
-
-
-
-
-
-
-8
-Use a linguagem que você aprendeu para escrever scripts que realizam comunicação entre máquinas. Saiba o que é necessário para fazer isso. Uma comunicação simples será suficiente.
-
-
-
-
-
-
-9
-Mude para uma linguagem de programação de desktop. De preferência, uma linguagem multiparadigma, como a Python. Faça uma introdução simples a essa segunda linguagem. A linguagem favorita da maioria dos programadores é a Java, entretanto, a linguagem C# está ganhando cada vez mais espaço nesse campo. As linguagens Java e C # são preferidas pelas seguintes razões:
+passo 9 - Mude para uma linguagem de programação de desktop.
+De preferência, uma linguagem multiparadigma, como a Python. Faça uma introdução simples a essa segunda linguagem. A linguagem favorita da maioria dos programadores é a Java, entretanto, a linguagem C# está ganhando cada vez mais espaço nesse campo. As linguagens Java e C # são preferidas pelas seguintes razões:
 
 Elas são linguagens de programação orientadas a objeto que protegem os programadores que trabalham em grandes equipes dos detalhes de implementação, uma vez que ambas suportam componentes (unidades de código pré-compiladas, as quais executam uma determinada tarefa e podem ser usadas em outros programas).
 Elas suportam programação orientada a eventos, bem como OO e programação procedural em algum ponto.
 O framework sobre o qual a linguagem é construída é distribuído por natureza (no caso da linguagem Java).
 A disponibilidade de muitos pacotes prontos para uso que trabalham com redes, tanto de código-fonte aberto quanto de framework integrado. Isso torna mais fácil para os programadores construir em cima do trabalho dos outros.
 
+======================================================
 
 
+passo 10 - Concentre-se mais nas características fundamentais da linguagem, especialmente no que diz respeito a suporte de rede.
+Preste menos atenção aos elementos de interface de usuário, tais como saída, design e técnicas de janela.
+
+======================================================
 
 
+passo 11 - Faça um curso sobre a concepção e a arquitetura de aplicações distribuídas.
+Isso pode ser feito usando livros, tutoriais online ou cursos acadêmicos. Entretanto, é necessário compreender a arquitetura de aplicações distribuídas e seus conceitos.
+
+======================================================
 
 
-10
-Concentre-se mais nas características fundamentais da linguagem, especialmente no que diz respeito a suporte de rede. Preste menos atenção aos elementos de interface de usuário, tais como saída, design e técnicas de janela.
+passo 12 - Estude a construção de componentes e serviços utilizando a linguagem de programação que você escolheu.
 
 
+======================================================
 
 
-
-
-11
-Faça um curso sobre a concepção e a arquitetura de aplicações distribuídas. Isso pode ser feito usando livros, tutoriais online ou cursos acadêmicos. Entretanto, é necessário compreender a arquitetura de aplicações distribuídas e seus conceitos. 
-
-
-
-
-
-
-12
-Estude a construção de componentes e serviços utilizando a linguagem de programação que você escolheu.
-
-
-
-
-
-
-13
-Aprenda pelo menos uma das seguintes tecnologias. É recomendado aprender pelo menos o básico de todas elas. A maioria dos programadores de aplicações distribuídas aprende, pelo menos, uma linguagem de programação em cada sistema operacional. Isso porque, caso queira que sua aplicação seja "distribuída", você precisará fornecer uma versão dela para cada sistema operacional principal.
+passo 13 - Aprenda pelo menos uma das seguintes tecnologias.
+É recomendado aprender pelo menos o básico de todas elas. A maioria dos programadores de aplicações distribuídas aprende, pelo menos, uma linguagem de programação em cada sistema operacional. Isso porque, caso queira que sua aplicação seja "distribuída", você precisará fornecer uma versão dela para cada sistema operacional principal.
 
 Common Object Request Broker Architecture (CORBA)
 Simple Object Access Protocol (SOAP)
@@ -567,253 +376,193 @@ Distributed Component Object Model (DCOM)
 .NET Remoting
 XML Web Services
 
+======================================================
 
 
-
-Publicidade
 
 Método 4
 
-1
-Saiba o que é programação de core. Programadores de core são simplesmente programadores avançados que saíram da programação de aplicações e foram para a programação de unidades de código, que, por sua vez, serão usadas por outros programadores. 
+passo 1 - Saiba o que é programação de core.
+Programadores de core são simplesmente programadores avançados que saíram da programação de aplicações e foram para a programação de unidades de código, que, por sua vez, serão usadas por outros programadores.
+
+======================================================
 
 
+passo 2 - Aprenda uma linguagem de programação que suporte a construção de componentes e pacotes reutilizáveis, caso ainda não tenha aprendido.
 
 
+======================================================
 
 
-2
-Aprenda uma linguagem de programação que suporte a construção de componentes e pacotes reutilizáveis, caso ainda não tenha aprendido.
+passo 3 - Faça um curso avançado em UML e ORM.
+A maioria dos desenvolvedores de biblioteca usa pelo menos um deles.
+
+======================================================
 
 
+passo 4 - Faça um curso de engenharia de software.
 
 
+======================================================
 
 
-3
-Faça um curso avançado em UML e ORM. A maioria dos desenvolvedores de biblioteca usa pelo menos um deles.
+passo 5 - Aprenda, no mínimo, conceitos e técnicas de programação modular, baseada em componentes, orientada a objetos e a eventos.
+Quanto mais paradigmas de programação e linguagens você dominar, mais bem-sucedido se tornará como um programador de bibliotecas e pacotes.
+
+======================================================
 
 
+passo 6 - Saiba mais sobre os diferentes sistemas operacionais e sobre os frameworks de programação suportados por eles.
 
 
+======================================================
 
 
-4
-Faça um curso de engenharia de software.
+passo 7 - Concentre seus esforços nos frameworks, linguagens de programação e tecnologias, independente da plataforma.
 
 
+======================================================
 
 
+passo 8 - Caso as linguagens de programação que você aprendeu até o momento possuam versões padrão ANSI/ISO/IEEE/W3C, domine-as.
+Tente usar o código padrão sempre que possível.
+
+======================================================
 
 
-5
-Aprenda, no mínimo, conceitos e técnicas de programação modular, baseada em componentes, orientada a objetos e a eventos. Quanto mais paradigmas de programação e linguagens você dominar, mais bem-sucedido se tornará como um programador de bibliotecas e pacotes. 
+passo 9 - Tente imitar bibliotecas simples e já estabelecidas, especialmente as de código aberto. código aberto
+Isso será útil durante a fase inicial de sua conversão em um programador de bibliotecas e pacotes. Comece com pacotes simples, como pacotes de conversão de unidades e cálculos científicos intermediários. Se você for um estudante de faculdade, faça uso das disciplinas não relacionadas à programação para tentar implementar equações e núcleos científicos na forma de bibliotecas.
+
+======================================================
 
 
+passo 10 - Pesquise e experimente pacotes de código aberto em seu campo de programação.
+Primeiro, baixe os binários do pacote. Tente usá-los e descobrir os pontos fortes e fracos. Em seguida, baixe o código fonte e tente descobrir como ele foi feito. Tente recriar essas bibliotecas ou partes delas. Comece fazendo isso após ver o código e, em seguida, tente fazer sem vê-los. Nas fases posteriores, tente melhorar essas bibliotecas.
+
+======================================================
 
 
-
-
-6
-Saiba mais sobre os diferentes sistemas operacionais e sobre os frameworks de programação suportados por eles.
-
-
-
-
-
-
-7
-Concentre seus esforços nos frameworks, linguagens de programação e tecnologias, independente da plataforma.
-
-
-
-
-
-
-8
-Caso as linguagens de programação que você aprendeu até o momento possuam versões padrão ANSI/ISO/IEEE/W3C, domine-as. Tente usar o código padrão sempre que possível.
-
-
-
-
-
-
-9
-Tente imitar bibliotecas simples e já estabelecidas, especialmente as de código aberto. Isso será útil durante a fase inicial de sua conversão em um programador de bibliotecas e pacotes. Comece com pacotes simples, como pacotes de conversão de unidades e cálculos científicos intermediários. Se você for um estudante de faculdade, faça uso das disciplinas não relacionadas à programação para tentar implementar equações e núcleos científicos na forma de bibliotecas.
-
-
-
-
-
-
-10
-Pesquise e experimente pacotes de código aberto em seu campo de programação. Primeiro, baixe os binários do pacote. Tente usá-los e descobrir os pontos fortes e fracos. Em seguida, baixe o código fonte e tente descobrir como ele foi feito. Tente recriar essas bibliotecas ou partes delas. Comece fazendo isso após ver o código e, em seguida, tente fazer sem vê-los. Nas fases posteriores, tente melhorar essas bibliotecas. 
-
-
-
-
-
-
-11
-Aprenda as diferentes abordagens utilizadas para distribuir e implementar componentes para programadores.
-
+passo 11 - Aprenda as diferentes abordagens utilizadas para distribuir e implementar componentes para programadores.
 Normalmente, os programadores de bibliotecas e pacotes tendem a pensar de forma recursiva e/ou iterativa sobre todos os problemas apresentados. Tente pensar em cada problema como uma soma de problemas menores (uma sequência de tarefas mais simples) ou como um processo iterativo pelo qual o problema original é dividido em unidades menores que são, em seguida, empilhadas hierarquicamente.
 Os programadores de bibliotecas e pacotes tendem a generalizar. Isto é, quando apresentados a um específico problema simples, eles pensam em um problema mais geral e tentam resolvê-lo, para assim resolver automaticamente o problema em questão.
 
+======================================================
 
 
-
-Publicidade
 
 Método 5
 
-1
-Entenda o que a programação de sistemas implica.  Os programadores de sistemas lidam com "a ciência" da programação e não com as implementações específicas da mesma. Não se prenda a uma plataforma específica. 
+passo 1 - Entenda o que a programação de sistemas implica.
+Os programadores de sistemas lidam com "a ciência" da programação e não com as implementações específicas da mesma. Não se prenda a uma plataforma específica.
+
+======================================================
 
 
+passo 2 - Siga as três primeiras etapas sugeridas para programadores de aplicações desktop.
 
 
+======================================================
 
 
-2
-Siga as três primeiras etapas sugeridas para programadores de aplicações desktop.
+passo 3 - Faça um curso introdutório em álgebra linear.
 
 
+======================================================
 
 
+passo 4 - Faça um curso de cálculo .
 
 
-3
-Faça um curso introdutório em álgebra linear.
+======================================================
 
 
+passo 5 - Faça um curso de lógica ou matemática discreta.
 
 
+======================================================
 
 
-4
-Faça um curso de cálculo.
-
-
-
-
-
-
-5
-Faça um curso de lógica ou matemática discreta.
-
-
-
-
-
-
-6
-Descubra por si mesmo diferentes sistemas operacionais. Para isso, você precisará:
+passo 6 - Descubra por si mesmo diferentes sistemas operacionais.
+Para isso, você precisará:
 
 Saber o básico sobre como os sistemas operacionais são instalados.
 Aprender a instalar diferentes sistemas operacionais em um PC (opcional, mas recomendado).
 Instalar mais do que um sistema operacional. Não instale nenhum pacote de ajuda nos sistemas; em vez disso, use as funcionalidades básicas fornecidas pelos mesmos.
 
+======================================================
 
 
+passo 7 - Faça um curso (ou, alternativamente, leia livros) sobre a arquitetura de hardware dos computadores.
 
 
+======================================================
 
 
-7
-Faça um curso (ou, alternativamente, leia livros) sobre a arquitetura de hardware dos computadores.
+passo 8 - Compreenda as diferentes plataformas de hardware de um computador.
 
 
+======================================================
 
 
+passo 9 - Compreenda basicamente a linguagem de integração da plataforma de hardware ou do sistema operacional de sua escolha. linguagem de integração
+Posteriormente, você aprenderá a integração de outras plataformas e sistemas.
 
+======================================================
 
-8
-Compreenda as diferentes plataformas de hardware de um computador.
 
+passo 10 - Aprenda as linguagens ANSI C e C++, junto com os conceitos de programação procedural.
 
 
+======================================================
 
 
+passo 11 - Entenda e pratique as bibliotecas padrão C/C++ na plataforma escolhida.
+Preste atenção particular ao Standard Template Library (STL) e talvez ao Active Template Library (ATL).
 
-9
-Compreenda basicamente a linguagem de integração da plataforma de hardware ou do sistema operacional de sua escolha. Posteriormente, você aprenderá a integração de outras plataformas e sistemas. 
+======================================================
 
 
+passo 12 - Procure por sites, livros e cursos na internet para conhecer as peculiaridades da linguagem C para sua plataforma em específico.
 
 
+======================================================
 
 
-10
-Aprenda as linguagens ANSI C e C++, junto com os conceitos de programação procedural.
+passo 13 - Pratique a criação de código avançado com C e C++.
 
 
+======================================================
 
 
+passo 14 - Aprenda mais sobre linguagens de integração avançadas.
 
 
-11
-Entenda e pratique as bibliotecas padrão C/C++ na plataforma escolhida.  Preste atenção particular ao Standard Template Library (STL) e talvez ao Active Template Library (ATL).
+======================================================
 
 
+passo 15 - Faça um curso em design de sistemas operacionais.
 
 
+======================================================
 
 
-12
-Procure por sites, livros e cursos na internet para conhecer as peculiaridades da linguagem C para sua plataforma em específico.
+passo 16 - Encontre e leia documentos da plataforma escolhida.
+Isso será mais fácil se você escolher um sistema operacional baseado no Unix. Conheça bem o sistema com o qual você trabalhará.
 
+======================================================
 
 
-
-
-
-13
-Pratique a criação de código avançado com C e C++.
-
-
-
-
-
-
-14
-Aprenda mais sobre linguagens de integração avançadas.
-
-
-
-
-
-
-15
-Faça um curso em design de sistemas operacionais.
-
-
-
-
-
-
-16
-Encontre e leia documentos da plataforma escolhida.  Isso será mais fácil se você escolher um sistema operacional baseado no Unix. Conheça bem o sistema com o qual você trabalhará.
-
-
-
-
-
-
-17
-Ponha em prática o conhecimento que você adquiriu. Primeiro, crie pequenos utilitários de sistema. Isso será útil para: 
+passo 17 - Ponha em prática o conhecimento que você adquiriu.
+Primeiro, crie pequenos utilitários de sistema. Isso será útil para: 
 
 Tentar recriar pequenas ferramentas que já existam no sistema.
 Tentar utilizar utilitários de porta disponíveis em outros sistemas operacionais no seu.
 
+======================================================
 
 
-
-
-
-
-18
-Aprenda as linguagens na ordem mais útil.  Essa é a única área onde a escolha da primeira linguagem de programação importa. Aprenda ANSI C primeiro, não C++, C# , Java ou D. Em seguida, aprenda C++.
+passo 18 - Aprenda as linguagens na ordem mais útil.
+Essa é a única área onde a escolha da primeira linguagem de programação importa. Aprenda ANSI C primeiro, não C++, C# , Java ou D. Em seguida, aprenda C++.
 Limitar a primeira linguagem exclusivamente a C se deve ao fato de que a programação de sistemas requer que o programador esteja familiarizado com os seguintes conceitos:
 
 Compilação real e completa de código fonte.
@@ -821,36 +570,29 @@ Arquivos de saída de objetos de baixo nível.
 Vinculação de binários.
 Programação em linguagem de máquina e integração de baixo nível. Algumas pessoas dizem que a linguagem C é uma linguagem de integração disfarçada, mais fácil de aprender. Ela também suporta a inserção de código de integração sempre que você quiser e é apenas procedural (como o integrador).
 
+======================================================
 
 
-
-
-Publicidade
 
 Método 6
 
-1
-Saiba o que um cientista da programação faz.  Cientistas da programação são programadores muito avançados que, em vez de trabalhar no desenvolvimento de aplicações, trabalham no desenvolvimento de tecnologias de computação, como criptografia, linguagens de programação e algoritmos de mineração de dados. Esse nível raramente é alcançado sem estudo acadêmico e dedicação. 
+passo 1 - Saiba o que um cientista da programação faz.
+Cientistas da programação são programadores muito avançados que, em vez de trabalhar no desenvolvimento de aplicações, trabalham no desenvolvimento de tecnologias de computação, como criptografia, linguagens de programação e algoritmos de mineração de dados. Esse nível raramente é alcançado sem estudo acadêmico e dedicação.
+
+======================================================
 
 
-
-
-
-
-2
-Acumule o conhecimento científico equivalente a um curso de quatro anos em ciência da computação. Isso pode ser feito das seguintes maneiras: 
+passo 2 - Acumule o conhecimento científico equivalente a um curso de quatro anos em ciência da computação.
+Isso pode ser feito das seguintes maneiras: 
 
 Obtendo um grau acadêmico real (que é o que geralmente acontece).
 Conseguindo o material do curso através de uma das universidades modernas e estudando-o. Apesar de ser possível aprender desta maneira, é recomendado seguir o primeiro caminho.
 
+======================================================
 
 
-
-
-
-
-3
-Decida qual será sua área de especialidade. Quanto mais específico, melhor. Essa escolha dependerá unicamente de suas preferências. A seguir você poderá ver uma lista de algumas das principais áreas da ciência da programação de computadores:
+passo 3 - Decida qual será sua área de especialidade.
+Quanto mais específico, melhor. Essa escolha dependerá unicamente de suas preferências. A seguir você poderá ver uma lista de algumas das principais áreas da ciência da programação de computadores:
 
 Projeto de algoritmos (pesquisa, classificação, criptografia, descriptografia e detecção de erros nas comunicações são alguns exemplos)
 Linguagens de programação, desenvolvimento de compiladores, otimização
@@ -862,23 +604,17 @@ Modelagem ou projeto auxiliado por computador (CAD/CAM)
 Realidade virtual
 Computação gráfica (gráficos de computador são em geral erroneamente confundidos com design gráfico ou design de interface gráfica do usuário. A computação gráfica se refere ao estudo da representação e manipulação gráfica em sistemas de computador).
 
+======================================================
 
 
+passo 4 - Considere obter uma pós-graduação.
+Você pode optar por buscar um mestrado ou um doutorado.
+
+======================================================
 
 
+passo 5 - Conheça as tecnologias e linguagens de programação relacionadas à sua área de escolha.
 
 
-4
-Considere obter uma pós-graduação. Você pode optar por buscar um mestrado ou um doutorado.
+======================================================
 
-
-
-
-
-
-5
-Conheça as tecnologias e linguagens de programação relacionadas à sua área de escolha.
-
-
-
-Publicidade
